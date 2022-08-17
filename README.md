@@ -1,10 +1,12 @@
-# Timber
+# Timber :deciduous_tree: :axe:
 screen resolution is 1,920 x 1,080
+
+:evergreen_tree: Demo [YouTube](https://youtu.be/gm4AyWtesWc)
 
 - Download SFML [here](https://www.sfml-dev.org/download/sfml/2.5.1/)
 - Microsfot Visual Studio 2022 
 
-This project uses the simplest possible version of a game loop, every game will need these phases in the code:
+:pick: This project uses the simplest possible version of a game loop, every game will need these phases in the code:
 
 1. Get the player’s input (if any).
 2. Update the scene based on things such as artificial intelligence, physics, or the player’s input.
