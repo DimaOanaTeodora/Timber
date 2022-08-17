@@ -1,1 +1,13 @@
-﻿  Timber.vcxproj -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\x64\Debug\Timber.exe
+﻿  Timber.cpp
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(262,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(284,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(321,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(325,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(345,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(348,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(368,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(371,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(392,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(395,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\Timber.cpp(419,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VS Projects\Timber\x64\Debug\Timber.exe
